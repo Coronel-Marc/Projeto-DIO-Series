@@ -15,3 +15,7 @@
             <li>Visualizar série</li>
         </ol>
 </details>
+
+<hr />
+
+Projeto feito na Plataforma: <a href="https://web.digitalinnovation.one/home">Digital Innovation One</a> <br /> 
